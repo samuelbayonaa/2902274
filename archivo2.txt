@@ -1,2 +1,12 @@
 Este es el segundo archivo con otros 3 modificaciones.
 
+
+Voy a añdir un texto informativo de alguna noticia:
+Salario minimo 2024 cuánto le llegará tras descuentos de salud y pensión:
+Con la llegada del nuevo año llegan las actualizaciones en varios temas de importancia para los ciudadanos, entre ellos el salario mínimo.
+
+Este quedó para el 2024 en $ 1.300.000, con un auxilio de transporte de $ 162.000 pesos.
+
+ Fragmento tomado de: El tiempo
+ dsd
+ 
