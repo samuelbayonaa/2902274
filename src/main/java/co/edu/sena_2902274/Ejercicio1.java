@@ -8,13 +8,13 @@ public class Ejercicio1 {
 
         // entradas
 
-        System.out.println("1. Calcular el area de un  triangulo");
-        System.out.println("Ingrese la base del triangulo");
+        System.out.println("1. Calcular el área de un triángulo ");
+        System.out.println("Ingrese la base del triángulo");
 
         Scanner src = new Scanner (System.in);
         double base = src.nextDouble(); 
 
-        System.out.println("Ingrese la altura del triangulo");
+        System.out.println("Ingrese la altura del triángulo ");
 
         double heigth = src.nextDouble();  
 
