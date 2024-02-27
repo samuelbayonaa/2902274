@@ -18,7 +18,7 @@ public class Ejercicio3 {
 
         //proceso
 
-        double resultnum2 = (num2*num2*num2);
+        double resultnum2 = (num2*num2);
 
         //resultado
 
